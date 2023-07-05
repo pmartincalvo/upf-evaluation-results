@@ -6,6 +6,7 @@ Avaldo system. You can find an inventory below:
 | Course                                    | Year  | File                                   |
 |-------------------------------------------|-------|----------------------------------------|
 | Applied Optimization and Machine Learning | 21/22 | aoml_21_22_cat.pdf & aoml_21_22_en.pdf |
+| Applied Optimization and Machine Learning | 22/23 | aoml_22_23_cat.pdf & aoml_22_23_en.pdf |
 
 # Why upload this?
 
